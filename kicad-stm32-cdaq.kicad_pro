@@ -339,7 +339,7 @@
           "group_by": false,
           "label": "Descripción",
           "name": "Description",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,

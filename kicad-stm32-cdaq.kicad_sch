@@ -12,7 +12,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 38.1 139.7)
+		(at 24.13 111.76)
 		(size 25.4 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28,7 +28,7 @@
 		)
 		(uuid "4fef582d-d8d1-4831-b4d1-071ef2a3959f")
 		(property "Sheetname" "Power"
-			(at 38.1 138.9884 0)
+			(at 24.13 111.0484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37,7 +37,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 38.1 165.6846 0)
+			(at 24.13 137.7446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55,7 +55,7 @@
 	)
 	(sheet
 		(at 25.4 25.4)
-		(size 19.05 25.4)
+		(size 25.4 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -88,8 +88,8 @@
 			)
 		)
 		(pin "AIN0" output
-			(at 44.45 29.21 0)
-			(uuid "b2e0e2a3-1271-4f1c-8c8d-af39959b04e8")
+			(at 50.8 29.21 0)
+			(uuid "10c6accf-16ca-4234-87dd-da1d31aab11f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98,8 +98,8 @@
 			)
 		)
 		(pin "AIN1" output
-			(at 44.45 31.75 0)
-			(uuid "99e52a94-2c95-4477-9d94-b588315999b6")
+			(at 50.8 31.75 0)
+			(uuid "7309d81e-309d-49d7-825e-d571827702b7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -108,8 +108,8 @@
 			)
 		)
 		(pin "AIN2" output
-			(at 44.45 34.29 0)
-			(uuid "327fecc3-3186-4752-8bdf-ad2dcd36e17b")
+			(at 50.8 34.29 0)
+			(uuid "25df30d6-dc42-4436-bc67-e5bcb6c17159")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -118,8 +118,8 @@
 			)
 		)
 		(pin "AIN3" output
-			(at 44.45 36.83 0)
-			(uuid "8fa06f56-4231-4c27-8845-2a252194e4bd")
+			(at 50.8 36.83 0)
+			(uuid "1c39f186-3834-4916-8d3e-6c7f66209cf2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -128,8 +128,8 @@
 			)
 		)
 		(pin "AIN4" output
-			(at 44.45 39.37 0)
-			(uuid "7a991027-9fb3-471f-b3f8-1a191448775d")
+			(at 50.8 39.37 0)
+			(uuid "993dc1af-e2a0-4534-9d69-8af63cd34deb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -138,8 +138,8 @@
 			)
 		)
 		(pin "AIN5" output
-			(at 44.45 41.91 0)
-			(uuid "20c8e3d2-3c1d-4de6-b981-e87d26d1260a")
+			(at 50.8 41.91 0)
+			(uuid "c352f292-f9a4-4f7d-8e66-4e835d0a8752")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -148,8 +148,8 @@
 			)
 		)
 		(pin "AIN6" output
-			(at 44.45 44.45 0)
-			(uuid "4c2bc7f8-17a8-46f8-96f8-f9bfc29e95b0")
+			(at 50.8 44.45 0)
+			(uuid "99e54ea2-e8b4-48f6-b1fc-bc73b9e45d35")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -158,8 +158,8 @@
 			)
 		)
 		(pin "AIN7" output
-			(at 44.45 46.99 0)
-			(uuid "d6457124-3f80-4e98-9e08-0bfdc66a9a2b")
+			(at 50.8 46.99 0)
+			(uuid "6270a2f0-ea93-4693-b4cb-b373ca5c9116")
 			(effects
 				(font
 					(size 1.27 1.27)
