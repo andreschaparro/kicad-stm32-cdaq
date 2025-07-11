@@ -798,7 +798,7 @@
 	)
 	(text "FAIN <= 1470Hz (>500Hz)"
 		(exclude_from_sim no)
-		(at 241.3 144.78 0)
+		(at 241.3 158.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -806,6 +806,17 @@
 			(justify left top)
 		)
 		(uuid "7047b3a0-0671-4488-9baa-b42dbf5b2340")
+	)
+	(text "STM32F407xx\n\nRAINMAX = 50k\n\nR = 6k8 (< 50K)"
+		(exclude_from_sim no)
+		(at 246.38 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "874143f5-9ec9-4e5a-87be-fc1743105594")
 	)
 	(text "VMAX = 150R . 22mA = 3.3V\n\nVRWM = 3.3V\nIR = 200nA (<< 3.6mA)\n4V < VBR @ 1mA < 6V\nVCLAMP = 12V (Smallest)"
 		(exclude_from_sim no)
@@ -818,7 +829,7 @@
 		)
 		(uuid "a06025e0-bd2c-43e9-80e1-39cd519bc9f4")
 	)
-	(text "Connectors + TVS + Current to Voltage Converter"
+	(text "Connectors + TVS + Current to Voltage Converter + LPF"
 		(exclude_from_sim no)
 		(at 13.97 26.67 0)
 		(effects
@@ -868,7 +879,7 @@
 	)
 	(text "AN2834"
 		(exclude_from_sim no)
-		(at 250.19 134.62 0)
+		(at 250.19 148.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2729,7 +2740,7 @@
 		(uuid "fe03c766-3e63-46e2-86a6-615057fc655e")
 	)
 	(image
-		(at 255.27 139.7)
+		(at 255.27 153.67)
 		(scale 0.360553)
 		(uuid "317e9714-66a3-4933-a07d-6a2f7a11ee5d")
 		(data "iVBORw0KGgoAAAANSUhEUgAAATgAAAA5CAIAAAAtNqAsAAAAA3NCSVQICAjb4U/gAAAACXBIWXMA"
